@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    width: 12rem;
+    height: 12rem;
+    margin: 0.5rem;
+    position: absolute;
+   
+}
+#card1{
+    top: 0;
+    left: 0;
+    background-color: aqua;
+}
+#card2{
+    top: 2rem;
+    left: 1rem;
+    background-color: blue;
+}
+#card3{
+    top: 3rem;
+    left: 2rem;
+    background-color: red;
+}
+#card4{
+    top: 4rem;
+    left: 3rem;
+    background-color: darkgoldenrod;
+}
+#card5{
+    top: 5rem;
+    left: 4rem;
+    background-color: orangered;
+}
+#card6{
+    top: 6rem;
+    left: 5rem;
+    background-color: plum;
+}
+#card7{
+    top: 0;
+    right: 0;
+    background-color: aqua;
+}
+#card8{
+    top: 2rem;
+    right: 1rem;
+    background-color: blue;
+}
+#card9{
+    top: 3rem;
+    right: 2rem;
+    background-color: red;
+}
+#card10{
+    top: 4rem;
+    right: 3rem;
+    background-color: darkgoldenrod;
+}
+#card11{
+    top: 5rem;
+    right: 4rem;
+    background-color: orangered;
+}
+#card12{
+    top: 6rem;
+    right: 5rem;
+    background-color: plum;
+}
+
