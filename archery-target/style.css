@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.circle{
+    border-radius: 50%;
+}
+#circle1{
+    width: 32rem;
+    height: 32rem;
+    position: relative;
+    background-color: blueviolet;
+    top: 2rem;
+    left:22rem;
+    
+}
+#circle2{
+    width: 28rem;
+    height: 28rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: rgb(49, 226, 43);
+    transform: translate(-50%, -50%);
+}
+#circle3{
+    width: 25rem;
+    height: 25rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: rgb(226, 168, 9);
+    transform: translate(-50%, -50%);
+}
+#circle4{
+    width: 21rem;
+    height: 21rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: rgb(184, 17, 17);
+    transform: translate(-50%, -50%);
+}
+#circle5{
+    width: 17rem;
+    height: 17rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: rgb(58, 4, 63);
+    transform: translate(-50%, -50%);
+}
+#circle5{
+    width: 14rem;
+    height: 14rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: rgb(27, 161, 161);
+    transform: translate(-50%, -50%);
+}
+#circle6{
+    width: 10rem;
+    height: 10rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: rgb(40, 43, 4);
+    transform: translate(-50%, -50%);
+}
+#circle7{
+    width: 6rem;
+    height: 6rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: rgb(17, 1, 5);
+    transform: translate(-50%, -50%);
+}
+
